@@ -1,1 +1,1 @@
-# Python_AI
+# How to run stensaxpase.py
